@@ -1,0 +1,10 @@
+.btn-change-svg {
+    background-color: rgb(115, 176, 255);
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn-text {
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+}
